@@ -1,6 +1,6 @@
 # APM
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.3.
+This project is a Product Display shop for Gardening tools using Angular.
 
 ## Development server
 
