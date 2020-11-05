@@ -1,7 +1,6 @@
 {
   "hosting": {
-    "site": "sam garden tool shop",
-    "public": "dist",
+    "public": "dist/TOOLSHOP",
     "ignore": [
       "firebase.json",
       "**/.*",
